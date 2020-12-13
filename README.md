@@ -1,3 +1,3 @@
 # bikeshare
 
-A simple app for three cities.
+A simple app for 3 cities.
